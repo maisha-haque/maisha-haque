@@ -112,3 +112,7 @@
     Building, learning, experimenting, and turning ideas into interfaces.
   </em>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maisha-haque/YOUR-REPO-NAME/output/github-snake.svg" />
+</p>
