@@ -113,6 +113,4 @@
   </em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maisha-haque/YOUR-REPO-NAME/output/github-snake.svg" />
-</p>
+![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_PROFILE_REPO/output/dist/github-snake.svg)
