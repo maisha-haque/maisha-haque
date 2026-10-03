@@ -113,4 +113,4 @@
   </em>
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/maisha-haque/maisha-haque/output/dist/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/maisha-haque/maisha-haque/output/github-snake.svg)
