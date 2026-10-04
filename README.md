@@ -23,10 +23,13 @@
   📫 How to reach me: <strong>maishahaque.connect@gmail.com</strong>
 </p>
 
+<!--  Things I do -->
+
 <h2 align="center">Languages: Learning Now🖥️. Leveling Up Next.💻</h2>
 <br />
 
 <!-- Frontend / Currently Learning -->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
@@ -37,20 +40,19 @@
 </p>
 
 <!-- Backend / Coming Next -->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
       src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&v=1#gh-dark-mode-only" 
       alt="Backend Skills (Dark)" 
     />
-    <img 
-      src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light&v=1#gh-light-mode-only" 
-      alt="Backend Skills (Light)" 
-    />
   </a>
 </p>
-
 <br />
+
+<!-- snake animation -->
+
 <h2 align="center">🐍 The Snake Demands Commits 🐍</h2>
 
 <picture align="center">
