@@ -1,117 +1,23 @@
-<h1 align="center">Hi, I'm Maisha Haque 👋</h1>
+<h1 align="center">Hi 👋, I'm Maisha</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="center">
-  <strong>FRONTEND DEVELOPER · CREATIVE BUILDER</strong>
+- 🔭 I’m currently working on [orebi](https://orebiweb.vercel.app/)
+
+- 🌱 I’m currently learning **Node.js, Mongo**
+
+- 💬 Ask me about **React, JavaScript, Tailwind CSS, Bootstrap, TypeScript & Next.js**
+
+- 📫 How to reach me **maishahaque.connect@gmail.com**
+
+- ⚡ Fun fact **Always down to play au**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  I build modern, responsive, and interactive web experiences
-  <br />
-  with a focus on clean interfaces, thoughtful interactions,
-  <br />
-  and turning ideas into working products.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br />
-
-<h2 align="center">WHAT I DO</h2>
-
-<p align="center">
-  ⚛️ React & Frontend Development &nbsp; · &nbsp;
-  🎨 UI/UX & Creative Interfaces
-  <br />
-  📱 Responsive Web Design &nbsp; · &nbsp;
-  ✨ Interactive Web Experiences
-</p>
-
-<br />
-
-<h2 align="center">CURRENTLY</h2>
-
-<p align="center">
-  🌱 Learning <strong>Next.js, Node.js & MongoDB</strong>
-  <br />
-  🤖 Exploring <strong>AI-assisted development workflows</strong>
-  <br />
-  🚀 Building and improving <strong>React projects</strong>
-</p>
-
-<br />
-
-<h2 align="center">TECH I WORK WITH</h2>
-
-<p align="center">
-  <strong>Frontend</strong><br />
-  React · JavaScript · HTML · CSS · Tailwind CSS
-</p>
-
-<p align="center">
-  <strong>Tools</strong><br />
-  Git · GitHub · Vite · Figma
-</p>
-
-<p align="center">
-  <strong>Exploring</strong><br />
-  Next.js · Node.js · MongoDB
-</p>
-
-<br />
-
-<h2 align="center">FEATURED PROJECTS</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      🍪
-      <br />
-      <strong>Cookito Cookies</strong>
-      <br />
-      <sub>Interactive cookie-themed React website</sub>
-    </td>
-
-    <td align="center" width="33%">
-      🛍️
-      <br />
-      <strong>Orebi Shop</strong>
-      <br />
-      <sub>Modern React e-commerce experience</sub>
-    </td>
-
-    <td align="center" width="33%">
-      🪑
-      <br />
-      <strong>Furniro</strong>
-      <br />
-      <sub>Responsive furniture shopping website</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h2 align="center">LET'S CONNECT</h2>
-
-<p align="center">
-  📫 <strong>Email:</strong>
-  <a href="mailto:maishahaque.connect@gmail.com">
-    maishahaque.connect@gmail.com
-  </a>
-</p>
-
-<p align="center">
-  🌐 <strong>Portfolio:</strong>
-  <a href="YOUR_PORTFOLIO_URL">
-    Visit my portfolio
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <em>
-    Building, learning, experimenting, and turning ideas into interfaces.
-  </em>
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maisha-haque/maisha-haque/output/github-snake-dark.svg">
