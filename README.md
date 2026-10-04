@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maisha</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Maisha!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on [orebi](https://orebiweb.vercel.app/)
