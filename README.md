@@ -33,10 +33,6 @@
       src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,ts,react,nextjs,figma,git&theme=dark#gh-dark-mode-only" 
       alt="Frontend Skills (Dark)" 
     />
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,ts,react,nextjs,figma,git&theme=light#gh-light-mode-only" 
-      alt="Frontend Skills (Light)" 
-    />
   </a>
 </p>
 
