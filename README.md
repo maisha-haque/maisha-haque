@@ -1,9 +1,30 @@
-<h1 align="center">Hi 👋, I'm Maisha</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Maisha!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Maisha!;&center=true&font=Righteous&size=35&color=FFFFFF">
   </a>
 </h1>
+
+<!-- about me -->
+<!-- about me -->
+<!-- about me -->
+<p align="center">
+  Hey, I'm Maisha Haque, a Frontend Developer 💻 & Creative Learner. ✨
+  <br />
+  <br />
+  💻 Currently mastering Frontend Development with React, JavaScript, Next.js & modern technologies.
+  <br />
+  🌱 Next up: Backend Development & Full Stack Engineering.
+  <br />
+  ⚙️ Planning to explore DevOps and cloud technologies.
+  <br />
+  🎨 Passionate about building creative, responsive and interactive web experiences.
+  <br />
+  🚀 Always learning, experimenting and building.
+</p>
+
+
+
+
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on [orebi](https://orebiweb.vercel.app/)
