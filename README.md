@@ -20,25 +20,10 @@
   🎨 Passionate about building creative, responsive and interactive web experiences.
   <br />
   🚀 Always learning, experimenting and building.
-</p>
-
-
-
-
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-
-- 🔭 I’m currently working on [orebi](https://orebiweb.vercel.app/)
-
-- 🌱 I’m currently learning **Node.js, Mongo**
-
-- 💬 Ask me about **React, JavaScript, Tailwind CSS, Bootstrap, TypeScript & Next.js**
-
-- 📫 How to reach me **maishahaque.connect@gmail.com**
-
-- ⚡ Fun fact **Always down to play au**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+    <br />
+  🛸 Fun fact: im always <strong>down to play au.</strong>
+     <br />
+  📫 How to reach me: <strong>maishahaque.connect@gmail.com</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
