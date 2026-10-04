@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Maisha!;&center=true&font=Righteous&size=35&color=FFFFFF">
   </a>
 </h1>
-
-<!-- about me -->
-<!-- about me -->
 <!-- about me -->
 <p align="center">
   Hey, I'm Maisha Haque, a Frontend Developer 💻 & Creative Learner. ✨
@@ -26,26 +23,39 @@
   📫 How to reach me: <strong>maishahaque.connect@gmail.com</strong>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages: Learning Now🖥️. Leveling Up Next.💻</h2>
+<br />
+
+<!-- Frontend / Currently Learning -->
 <p align="center">
   <a href="https://skillicons.dev">
-      <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-          <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
-        </picture>
-
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,ts,react,nextjs,figma,git&theme=dark#gh-dark-mode-only" 
+      alt="Frontend Skills (Dark)" 
+    />
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,wordpress,js,ts,react,nextjs,figma,git&theme=light#gh-light-mode-only" 
+      alt="Frontend Skills (Light)" 
+    />
   </a>
 </p>
 
+<!-- Backend / Coming Next -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&v=1#gh-dark-mode-only" 
+      alt="Backend Skills (Dark)" 
+    />
+    <img 
+      src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light&v=1#gh-light-mode-only" 
+      alt="Backend Skills (Light)" 
+    />
+  </a>
+</p>
+
+<br />
+<h2 align="center">🐍 The Snake Demands Commits 🐍</h2>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maisha-haque/maisha-haque/output/github-snake-dark.svg">
