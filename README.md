@@ -54,12 +54,13 @@
 <!-- see more  -->
 <h2 align="center">🌐 Beyond the GitHub Grid 🌐</h2>
 <br />
-<p align="center">
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🚀_ENTER_MY_PORTFOLIO-000000?style=for-the-badge)](https://maisha-haque-portfolioweb.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/👾_FIND_ME_ON_LINKEDIN-000000?style=for-the-badge)](https://linkedin.com/in/maisha-haque-dev)
 
-</p>
+  
+</div>
 <br />
 <!-- snake animation -->
 
