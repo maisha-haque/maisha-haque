@@ -56,8 +56,9 @@
 <br />
 <p align="center">
 
-🌐 **Portfolio:** [View My Portfolio](https://maisha-haque-portfolioweb.vercel.app/)
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/maisha-haque-dev)
+[![Portfolio](https://img.shields.io/badge/🚀_ENTER_MY_PORTFOLIO-000000?style=for-the-badge)](https://maisha-haque-portfolioweb.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/👾_FIND_ME_ON_LINKEDIN-000000?style=for-the-badge)](https://linkedin.com/in/maisha-haque-dev)
+
 </p>
 <br />
 <!-- snake animation -->
