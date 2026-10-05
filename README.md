@@ -51,6 +51,15 @@
 </p>
 <br />
 
+<!-- see more  -->
+<h2 align="center">🌐 Beyond the GitHub Grid 🌐</h2>
+<br />
+<p align="center">
+
+🌐 **Portfolio:** [View My Portfolio](https://maisha-haque-portfolioweb.vercel.app/)
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/maisha-haque-dev)
+</p>
+<br />
 <!-- snake animation -->
 
 <h2 align="center">🐍 The Snake Demands Commits 🐍</h2>
