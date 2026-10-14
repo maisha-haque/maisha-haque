@@ -25,7 +25,7 @@
 
 <!--  Things I do -->
 
-<h2 align="center">Languages: Learning Now🖥️. Leveling Up Next.💻</h2>
+<h2 align="center">Languages: I Know🖥️.</h2>
 <br />
 
 <!-- Frontend / Currently Learning -->
@@ -40,6 +40,9 @@
 </p>
 
 <!-- Backend / Coming Next -->
+<h2 align="center">Languages: Currently Learning.💻</h2>
+<br />
+
 
 <p align="center">
   <a href="https://skillicons.dev">
