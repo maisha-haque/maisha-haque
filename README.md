@@ -52,7 +52,6 @@
     />
   </a>
 </p>
-<br />
 <!-- see more  -->
 <h2 align="center">🌐 Beyond the GitHub Grid 🌐</h2>
 <br />
