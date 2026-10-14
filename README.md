@@ -41,8 +41,6 @@
 
 <!-- Backend / Coming Next -->
 <h2 align="center">Languages: Currently Learning.💻</h2>
-<br />
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,6 +50,7 @@
     />
   </a>
 </p>
+<br />
 <!-- see more  -->
 <h2 align="center">🌐 Beyond the GitHub Grid 🌐</h2>
 <br />
